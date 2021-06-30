@@ -1,0 +1,24 @@
+body {
+  text-align:center;
+  background-color:#d3d3d3; 
+}
+H1 {
+  font-family: san-serif; 
+  font-size: 50px
+}
+H2{
+  text-decoration: underline;
+}
+#image {
+  max-width: 65%;
+  height: auto;
+  width: 100%;
+}
+#data-info {
+  text-align: justify;
+  padding: 5px 150px 20px 150px; 
+}
+ul{
+  list-style-type: none;
+  list-style-position: inside;
+}
